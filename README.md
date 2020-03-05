@@ -18,11 +18,11 @@
 1. Brijal
 2. Cabbage
 3. Drum stcks
-   a.dram1
-   b.dram2
+     a.dram1
+     b.dram2
    
 ###Images
-![Aits].(https://en.wikipedia.org/wiki/Annamacharya#/media/File:Annamacharya.jpg)
+![Aits](https://en.wikipedia.org/wiki/Annamacharya#/media/File:Annamacharya.jpg)
 
 ### Links
 [GitHub](http://github.com)
