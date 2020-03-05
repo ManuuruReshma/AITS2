@@ -4,4 +4,4 @@
 #### Sciences
 ##### [antamas]
 
-**AITS** is located in tirupathi, rajamet,Kadapa, and hyderbad
+***secAITS*** is located in tirupathi, rajamet,Kadapa, and hyderbad
