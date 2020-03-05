@@ -18,12 +18,11 @@
 1. Brijal
 2. Cabbage
 3. Drum stcks
-     a.dram1
-     b.dram2
+     a. Dram1
+     b. Dram2
    
 ###Images
-![Aits](https://en.wikipedia.org/wiki/Annamacharya#/media/File:Annamacharya.jpg)
-
+![Aits](https://www.jacksonandperkins.com/images/xxl/v1780.jpg)
 ### Links
 [GitHub](http://github.com)
 
@@ -32,3 +31,4 @@ The legemd one said
 > "Life is like a lemin under the life"
 
 \*life\*
+ 
